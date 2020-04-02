@@ -1,0 +1,38 @@
+{
+  "Children": [
+    {
+      "Children": [
+        {
+          "Children": [],
+          "ID": 3,
+          "Name": "Imie3",
+          "Surname": "Nazwisko3",
+          "Position": "Pozycja3",
+          "Level": {},
+          "TreeID": 1
+        },
+        {
+          "Children": [],
+          "ID": 4,
+          "Name": "Imie4",
+          "Surname": "Nazwisko4",
+          "Position": "Pozycja4",
+          "Level": {},
+          "TreeID": 1
+        }
+      ],
+      "ID": 2,
+      "Name": "Imie2",
+      "Surname": "Nazwisko2",
+      "Position": "Pozycja2",
+      "Level": {},
+      "TreeID": 1
+    }
+  ],
+  "ID": 1,
+  "Name": "Imie1",
+  "Surname": "Nazwisko1",
+  "Position": "Pozycja1",
+  "Level": {},
+  "TreeID": 1
+}
